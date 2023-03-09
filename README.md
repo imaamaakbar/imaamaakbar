@@ -6,9 +6,9 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://media.giphy.com/media/TCBJw2ZLdeOg2bDyLh/giphy.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width = 250px></picture>
 
 <br>
 
@@ -27,7 +27,8 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP%20-blue?style=for-the-badge&logo=php&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
@@ -44,8 +45,9 @@
  - Backend:
 
    ![Codeigniter](https://img.shields.io/badge/Codeigniter-red?style=for-the-badge&logo=codeigniter&logoColor=white)
-   ![Laravel](https://img.shields.io/badge/Codeigniter-red?style=for-the-badge&logo=code&logoColor=white)
-   ![Lumen](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![Laravel](https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=Laravel&logoColor=red)
+   ![Lumen](https://img.shields.io/badge/Lumen-blue?style=for-the-badge&logo=lumen&logoColor=black)
+   ![NUXT3](https://img.shields.io/badge/nuxt-green?style=for-the-badge&logo=vue&logoColor=white)
 
 <br>
 
@@ -58,15 +60,7 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
 
-<br>
 
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
-</p>
 
 <br>
 <br>
@@ -127,5 +121,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
+<div align="center"><img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="250"></<div>
+
 <br>
 
