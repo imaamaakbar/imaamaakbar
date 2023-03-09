@@ -29,6 +29,7 @@
     
     ![PHP](https://img.shields.io/badge/PHP%20-blue?style=for-the-badge&logo=php&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
@@ -39,6 +40,8 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![Bootstrap](https://img.shields.io/badge/bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![Tailwind](https://img.shields.io/badge/tailwind-purple?style=for-the-badge&logo=tailwindui&logoColor=white)
 
 <br>
   
@@ -47,7 +50,17 @@
    ![Codeigniter](https://img.shields.io/badge/Codeigniter-red?style=for-the-badge&logo=codeigniter&logoColor=white)
    ![Laravel](https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=Laravel&logoColor=red)
    ![Lumen](https://img.shields.io/badge/Lumen-blue?style=for-the-badge&logo=lumen&logoColor=black)
-   ![NUXT3](https://img.shields.io/badge/nuxt-green?style=for-the-badge&logo=vue&logoColor=white)
+   ![NUXT3](https://img.shields.io/badge/nuxt3-green?style=for-the-badge&logo=typescript&logoColor=white)
+   ![NODEJS](https://img.shields.io/badge/NODE.JS-aqua?style=for-the-badge&logo=nodejs&logoColor=white)
+
+<br>
+	
+  - Database:
+
+    ![MariaDB](https://img.shields.io/badge/MariaDB-oarnge?style=for-the-badge&logo=mariadb&logoColor=white)
+   ![Postgres](https://img.shields.io/badge/Postgres-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+   ![SQLite](https://img.shields.io/badge/Sqlite-red?style=for-the-badge&logo=sqlite&logoColor=white)
+ 
 
 <br>
 
