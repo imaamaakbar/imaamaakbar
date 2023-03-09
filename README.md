@@ -13,7 +13,7 @@
 <br>
 
 - 👋 Hi, I’m Imam Akbar
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Computer Science, University of Lampung
 
 <br><br>
