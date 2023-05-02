@@ -16,9 +16,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Computer Science, University of Lampung
 
-<br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -52,6 +50,7 @@
    ![Lumen](https://img.shields.io/badge/Lumen-blue?style=for-the-badge&logo=lumen&logoColor=black)
    ![NUXT3](https://img.shields.io/badge/nuxt3-green?style=for-the-badge&logo=typescript&logoColor=white)
    ![NODEJS](https://img.shields.io/badge/NODE.JS-aqua?style=for-the-badge&logo=nodejs&logoColor=white)
+   ![GOLANG](https://img.shields.io/badge/golang-blue?style=for-the-badge&logo=golang&logoColor=white)
 
 <br>
 	
@@ -130,9 +129,7 @@
 </ul>
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+
 <br>
 <div align="center"><img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="250"></<div>
 
