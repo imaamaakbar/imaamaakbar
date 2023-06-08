@@ -30,7 +30,7 @@
     ![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Python](https://img.shields.io/badge/Flutter%20-%2314354C.svg?style=for-the-badge&logo=flutter&logoColor=white)
+    ![Python](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)
 
 <br>   
     
