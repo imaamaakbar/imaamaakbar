@@ -14,7 +14,7 @@
 
 - 👋 Hi, I’m Imam Akbar
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Computer Science, University of Lampung
+- 🎓 I’m have backgroud study Computer Science at University of Lampung
 
 
 
